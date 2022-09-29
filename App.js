@@ -123,7 +123,7 @@ const App = () => {
   return (
     <SafeAreaView>
       <View>
-        <Text>Hello React!</Text>
+        <Text>Hello</Text>
       </View>
     </SafeAreaView>
   );
